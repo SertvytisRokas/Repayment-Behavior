@@ -1,7 +1,3 @@
-# DS.v2.5.3.4.1
-### Module 3: Machine Learning v2.5
-### Machine Learning Capstone Project
-
 # Repayment Behavior Patterns
 The relevant project is located in repayment_behavior_predictions.ipynb.
 
